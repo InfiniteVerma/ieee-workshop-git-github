@@ -18,3 +18,9 @@ Repository containing tasks for the Git and GitHub workshop for IEEE SBM WC memb
 
 ### Task 2
 
+- Follow instructions given in readme of Task2/
+
+# Tips
+
+- Create a branch and add your changes to that branch, not master
+- Look up how markdown is used while entering your details in task 1
