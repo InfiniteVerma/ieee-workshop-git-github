@@ -17,6 +17,7 @@ Add below your information according to the template provided
 - **TV Shows:**
 - **Movies:** 
 - **Anime:** 
+- **Books:**
 
 **Hobbies:** 
 
@@ -33,6 +34,7 @@ Add below your information according to the template provided
 - TV Show: Doctor Who
 - Movies: Inception, Interstellar
 - Anime: Detective Conan, Haikyuu
+- Books: Harry Potter, Artemis Fowl
 
 **Hobbies**: Guitar, Reading
 
