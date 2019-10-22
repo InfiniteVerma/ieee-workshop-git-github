@@ -19,7 +19,7 @@ Add below your information according to the template provided
 - **Anime:** 
 - **Books:**
 
-**Hobbies:** 
+**Link to Repo of Task0: **
 
 # Participants
 
@@ -35,8 +35,6 @@ Add below your information according to the template provided
 - Movies: Inception, Interstellar
 - Anime: Detective Conan, Haikyuu
 - Books: Harry Potter, Artemis Fowl
-
-**Hobbies**: Guitar, Reading
 
 ___
 
