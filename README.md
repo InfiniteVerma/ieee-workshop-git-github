@@ -30,3 +30,5 @@ Repository containing tasks for the Git and GitHub workshop for IEEE SBM WC memb
 - https://guides.github.com/pdfs/githubflow-online.pdf
 - https://guides.github.com/activities/hello-world/
 - https://education.github.com/git-cheat-sheet-education.pdf
+- https://courses.cs.washington.edu/courses/cse403/13au/lectures/git.ppt.pdf
+- https://www.slideshare.net/insomniac.at.work/introduction-to-github-slideshare
