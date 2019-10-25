@@ -19,7 +19,7 @@ Add below your information according to the template provided
 - **Anime:** 
 - **Books:**
 
-**Link to Repo of Task0: **
+**Link to Repo of Task0:**
 
 # Participants
 
