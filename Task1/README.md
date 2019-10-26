@@ -38,5 +38,19 @@ Add below your information according to the template provided
 
 ___
 
+**Name:** vedant  barsagade
+
+**Stream:** CSE
+
+**Current Interests:** 
+
+**Favourite** 
+
+- **TV Shows:**
+- **Movies:** 
+- **Anime:** 
+- **Books:**
+
+**Link to Repo of Task0:**
 
 
