@@ -6,18 +6,18 @@ Add below your information according to the template provided
 
 ### Template
 
-**Name:** 
+**Name:** Archit Gupta
 
-**Stream:** 
+**Stream:** IT
 
-**Current Interests:** 
+**Current Interests:** Keyboard, Squash
 
 **Favourite** 
 
-- **TV Shows:**
-- **Movies:** 
-- **Anime:** 
-- **Books:**
+- **TV Shows:** Rick and Morty
+- **Movies:** The Prestige
+- **Anime:** Fuck Off
+- **Books:** The Habit of Winning
 
 **Link to Repo of Task0:**
 
