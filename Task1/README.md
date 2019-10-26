@@ -23,18 +23,18 @@ Add below your information according to the template provided
 
 # Participants
 
-**Name**: Anant Verma
+**Name**: Shrimanti Pal
 
-**Stream**: CS
+**Stream**: ECE
 
-**Current Interests**: Backend, Competitive Programming
+**Current Interests**: Sleeping
 
 **Favourite**: 
 
-- TV Show: Doctor Who
-- Movies: Inception, Interstellar
-- Anime: Detective Conan, Haikyuu
-- Books: Harry Potter, Artemis Fowl
+- TV Show: Game of Thrones, The Office
+- Movies: Iron Man, Captain America, etc.
+- Anime: Fullmetal Alchemist: Brotherhood, Attack on Titan
+- Books: Harry Potter, Vicious, A Darker Shade of Magic
 
 ___
 
