@@ -36,6 +36,18 @@ Add below your information according to the template provided
 - Anime: Detective Conan, Haikyuu
 - Books: Harry Potter, Artemis Fowl
 
+**Name**: Ishika Agarwal 
+
+**Stream**: CCE 
+
+**Current Interests:** 
+
+**Favourite** 
+
+- **TV Shows:**
+- **Movies:** 
+- **Anime:** 
+- **Books:**
 ___
 
 
