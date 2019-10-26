@@ -6,9 +6,9 @@ Add below your information according to the template provided
 
 ### Template
 
-**Name:** 
+**Name: Nalin Bhargava** 
 
-**Stream:** 
+**Stream: IT** 
 
 **Current Interests:** 
 
