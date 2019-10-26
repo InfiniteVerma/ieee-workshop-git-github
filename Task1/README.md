@@ -36,7 +36,11 @@ Add below your information according to the template provided
 - Anime: Detective Conan, Haikyuu
 - Books: Harry Potter, Artemis Fowl
 
-___l
+**Attibutes**:
+-Fire
+-Dark
+
+___
 
 
 
