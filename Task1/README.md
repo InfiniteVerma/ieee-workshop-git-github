@@ -6,9 +6,9 @@ Add below your information according to the template provided
 
 ### Template
 
-**Name:** 
+**Name: Sanjana Bharadwaj** 
 
-**Stream:** 
+**Stream:ECE** 
 
 **Current Interests:** 
 
