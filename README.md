@@ -25,6 +25,8 @@ Repository containing tasks for the Git and GitHub workshop for IEEE SBM WC memb
 - Create a branch and add your changes to that branch, not master
 - Look up how markdown is used while entering your details in task 1
 
+# Installation: 
+- https://git-scm.com/downloads
 # Links
 
 - https://guides.github.com/pdfs/githubflow-online.pdf
