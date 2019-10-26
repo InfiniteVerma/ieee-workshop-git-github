@@ -6,11 +6,11 @@ Add below your information according to the template provided
 
 ### Template
 
-**Name:** 
+**Name: PRATYAKSH GUPTA** 
 
-**Stream:** 
+**Stream: EEE** 
 
-**Current Interests:** 
+**Current Interests:ARTIFICIAL INTELLIGENCE & MACHINE LEARNING** 
 
 **Favourite** 
 
