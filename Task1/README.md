@@ -40,6 +40,17 @@ Add below your information according to the template provided
 -Fire
 -Dark
 
+**Skills**:
+-Eternal Dark
+-Max Inferno
+-Shadow Core
+-God Supernova
+-Shadow Force
+-Ameterasu
+-Ignition Blade
+-Shadow Cloak
+ 
+
 ___
 
 
