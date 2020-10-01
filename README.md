@@ -1,36 +1,42 @@
-# Introduction
+# Task 1
 
-Repository containing tasks for the Git and GitHub workshop for IEEE SBM WC members.
+### Instructions: 
 
-### Task 0
+Add below your information according to the template provided
 
-- Follow instructions in Task0/
+### Template
 
-### Task 1
+**Name:** 
 
-- Fork this repository
-- Clone your forked repo
-- Create a new branch with name: "firstname-lastname"
-- Open task1.md file located in folder Task1/
-- Add your details with the template provided
-- Stage, commit and push your changes to your forked repository.
-- Create a pull request
+**Stream:** 
 
-### Task 2
+**Current Interests:** 
 
-- Follow instructions given in readme of Task2/
+**Favourite** 
 
-# Tips
+- **TV Shows:**
+- **Movies:** 
+- **Anime:** 
+- **Books:**
 
-- Create a branch and add your changes to that branch, not master
-- Look up how markdown is used while entering your details in task 1
+**Link to Repo of Task0:**
 
-# Installation: 
-- https://git-scm.com/downloads
-# Links
+# Participants
 
-- https://guides.github.com/pdfs/githubflow-online.pdf
-- https://guides.github.com/activities/hello-world/
-- https://education.github.com/git-cheat-sheet-education.pdf
-- https://courses.cs.washington.edu/courses/cse403/13au/lectures/git.ppt.pdf
-- https://www.slideshare.net/insomniac.at.work/introduction-to-github-slideshare
+**Name**: Anant Verma
+
+**Stream**: CS
+
+**Current Interests**: Backend, Competitive Programming
+
+**Favourite**: 
+
+- TV Show: Doctor Who
+- Movies: Inception, Interstellar
+- Anime: Detective Conan, Haikyuu
+- Books: Harry Potter, Artemis Fowl
+
+___
+
+
+

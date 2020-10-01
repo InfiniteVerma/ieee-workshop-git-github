@@ -38,5 +38,19 @@ Add below your information according to the template provided
 
 ___
 
+**Name:** Vineel Marreddy
+
+**Stream:** CSE
+
+**Current Interests:** Learning new programs
+
+**Favourite**CRICKET 
+
+- **TV Shows:**Bigg boss
+- **Movies:** Marvel
+- **Anime:** Dragon Ballz
+- **Books:**---
 
 
+
+"Abhd"
