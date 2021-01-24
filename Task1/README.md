@@ -36,6 +36,21 @@ Add below your information according to the template provided
 - Anime: Detective Conan, Haikyuu
 - Books: Harry Potter, Artemis Fowl
 
+**Attibutes**:
+-Fire
+-Dark
+
+**Skills**:
+-Eternal Dark
+-Max Inferno
+-Shadow Core
+-God Supernova
+-Shadow Force
+-Ameterasu
+-Ignition Blade
+-Shadow Cloak
+ 
+
 ___
 
 
