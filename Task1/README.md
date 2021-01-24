@@ -23,9 +23,9 @@ Add below your information according to the template provided
 
 # Participants
 
-**Name**: Anant Verma
+**Name**: Harsh Deodhar
 
-**Stream**: CS
+**Stream**: ECE
 
 **Current Interests**: Backend, Competitive Programming
 
