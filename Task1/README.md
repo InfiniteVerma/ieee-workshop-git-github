@@ -39,4 +39,17 @@ Add below your information according to the template provided
 ___
 
 
+**Name:** 
+ANISH DASGUPTA
+**Stream:** 
 
+**Current Interests:** 
+
+**Favourite** 
+
+- **TV Shows:**
+- **Movies:** 
+- **Anime:** 
+- **Books:**
+
+**Link to Repo of Task0:**
